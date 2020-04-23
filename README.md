@@ -15,11 +15,11 @@ The algorithm out the explicit solution and/or complement, are "quivalents" or c
 
 # Usage
 	
-	./deudos_covenant instance.txt
+	./deidos_covenant instance.txt
 
 # Format
 
-The sile format is, use the gen_ssp.py to generate random examples. 
+The sile format is: (use the gen_ssp.py to generate random examples) 
 
 	python3 gen_ssp.py bits size
 
